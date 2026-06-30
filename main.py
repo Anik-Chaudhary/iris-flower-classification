@@ -3,7 +3,7 @@
 Iris Flower Classification
 QSkill AI/ML Internship Task
 
-Author: Your Name
+Author: Anik Chaudhary
 ==========================================================
 """
 
