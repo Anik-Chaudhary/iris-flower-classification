@@ -84,7 +84,7 @@ Classes:
 Clone repository
 
 ```bash
-git clone https://github.com/yourusername/iris-flower-classification.git
+git clone https://github.com/anik-chaudhary/iris-flower-classification.git
 ```
 
 Install dependencies
